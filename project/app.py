@@ -65,13 +65,13 @@ def index():
 
 
     # Get the most-recent headline
-    #fh = open('tag-vegas-1.html', 'rb')
-    #latest = fh.read()
-    #fh.close()
+    fh = open('tag-vegas-1.html', 'rb')
+    latest = fh.read()
+    fh.close()
 
     response = {
         'app': app,
-     #   'latest': latest.decode('utf-8'),
+        'latest': latest.decode('utf-8'),
         'content': content
     }
 
