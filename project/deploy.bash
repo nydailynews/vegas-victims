@@ -6,7 +6,7 @@ ENVIRON='PROD'
 export environ=$ENVIRON
 SERVER='qa'
 DIR='/apps/project/'
-PROJECT='vegas-victims'
+PROJECT='las-vegas-victims'
 LOCATION_OVERRIDE=0
 html_only() { 
     echo ''
@@ -42,7 +42,7 @@ done
 if [ -d "$PROJECT" ]; then rm -fr $PROJECT; fi
 
 # J-A-N-K-Y
-#wget -O tag-russia-1.html http://interactive.nydailynews.com/project/donald-trump-ties-russia-key-players/tag-russia-1.html
+#wget -O tag-russia-1.html http://interactive.nydailynews.com/project/las-vegas-victims/tag-vegas-1.html
 
 #python tests.py && \
 html_only && \
