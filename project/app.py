@@ -84,7 +84,7 @@ def last_update(blank):
         Returns a formatted date object, ala "Friday Feb. 20"
         """
     today = date.today()
-    return today.strftime('%A %B %D, %Y')
+    return today.strftime('%A %B %-d, %Y')
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):
