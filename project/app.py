@@ -39,7 +39,7 @@ def index():
     story = fh.read().split('^^^^^^')
     fh.close()
 
-    content['intro'] = m.html(story[0])
+    content['intro'] = m.html(story[0].decode('utf-8'))
     i = 0
     for s, section in enumerate(story[1:]):
         # This fixes some formatting issues with variable numbers of newlines in bios.md
@@ -47,32 +47,31 @@ def index():
         items = []
         parts = section.split("\n\n")
         for item in parts:
-            mkup = m.html(item)
+            mkup = m.html(item.decode('utf-8'))
             mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed section-%d" onclick="clicker(%d);">' % (i, s, i))
             items.append(mkup)
             i += 1
 
         markup = '</div>\n</li>\n\n<li>\n'.join(items)
         
-        # Add the hr's
-        markup = markup.replace('<h3>', '<hr>\n<h3>')
+       
         # Add the opening ul
         # We add an expand-all link below the first header
         if s == 0:
-            markup = markup.replace('</h2>', '</h2>\n<div class="expand-all" onclick="expand_all();"><a>expand all</a></div>\n<ul><li>')
+            markup = markup.replace('</h2>', '</h2>\n<ul><li>')
         else:
             markup = markup.replace('</h2>', '</h2>\n<ul><li>')
         # Add the closing ul
         content['sections'].append('%s\n</div>\n</li>\n</ul>' % markup)
 
     # Get the most-recent headline
-    fh = open('tag-russia-1.html', 'rb')
-    latest = fh.read()
-    fh.close()
+    #fh = open('tag-vegas-1.html', 'rb')
+    #latest = fh.read()
+    #fh.close()
 
     response = {
         'app': app,
-        'latest': latest.decode('utf-8'),
+     #   'latest': latest.decode('utf-8'),
         'content': content
     }
 

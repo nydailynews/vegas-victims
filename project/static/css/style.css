@@ -70,11 +70,6 @@ main p {
     margin-top: 12px;
 }
 
-hr {
-    margin-top: -7px;
-    border-color: #333;
-}
-
 .latest-news {
     text-align: center;
     border-top: 1px solid #666;
@@ -137,12 +132,17 @@ section#bios ul {
 
 section#bios ul li {
     width: 300px;
-    margin: 10px;
     text-align: center;
 }
 
 section#bios ul li p {
     text-align: left;
+    margin-top: unset;
+}
+
+section#bios ul li p img{
+    margin: 0 auto 10px auto;
+    display: block;
 }
 
 /* HANDHELD-SPECIFIC */
