@@ -41,7 +41,7 @@ h1 {
 }
 
 h2 {
-    background-color: #E6735A;
+    background-color: #ef1c1b;
     color: white;
     width: 275px;
     margin: 15px auto;
@@ -61,27 +61,13 @@ h3 {
     text-align: center;
 }
 
-h4 {
-    font: bold 14px "Open Sans", sans-serif;
-    line-height: 22px;
-    text-transform: uppercase;
-    text-align: center;
-    color: #1F618D;
-}
-
 main p {
     color: #333;
-    font: normal 15px "PT Serif", serif;
-    line-height: 25px;
-    margin-top: 15px;
-}
-
-div.intro p#datestamp + p:first-letter {
-    text-transform: uppercase;
-    float: left;
-    font-size: 53px;
-    line-height: 48px;
-    padding-right: 5px;
+    font: normal 17px "PT Serif", serif;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 27px;
+    margin-top: 12px;
 }
 
 hr {
@@ -100,18 +86,6 @@ hr {
 
 q {
     quotes: '\201C' '\201D';
-}
-
-img {
-    max-height: 170px;
-}
-
-.revenue {
-    width: 500px;
-    height: 350px;
-    max-height: 350px;
-    position: relative;
-    left: -100px;
 }
 
 .caption {
@@ -140,12 +114,12 @@ div.ad > span {
 
 /*  SECTIONS  */
 
-section#monies {
+section#bios {
     width: 100%;
     height: auto;
 }
 
-section#monies ul {
+section#bios ul {
     width: 100%;
     height: auto;
     margin: 0;
@@ -161,13 +135,13 @@ section#monies ul {
     justify-content: space-around;
 }
 
-section#monies ul li {
+section#bios ul li {
     width: 300px;
     margin: 10px;
     text-align: center;
 }
 
-section#monies ul li p {
+section#bios ul li p {
     text-align: left;
 }
 

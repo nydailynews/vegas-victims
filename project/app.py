@@ -12,7 +12,7 @@ app = Flask(__name__)
 app.debug = True
 
 page = {
-    'title': 'The victims of the shooting in Las Vegas',
+    'title': 'Las Vegas Shooting Victims',
     'title_twitter': 'The victims of the shooting in Las Vegas'.decode('utf-8'),
     'url': 'http://interactive.nydailynews.com/project/vegas-victims/',
     'description': 'DESCRIPTION',
