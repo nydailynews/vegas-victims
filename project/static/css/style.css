@@ -83,6 +83,11 @@ q {
     quotes: '\201C' '\201D';
 }
 
+hr {
+	margin-top: -10px;
+	border-color: #333;
+}
+
 .caption {
     font: 12px "Open Sans", sans-serif;
     color: #999;
@@ -118,7 +123,7 @@ section#bios ul {
     width: 100%;
     height: auto;
     margin: 0;
-    padding: 0 20px 20px 20px;
+    padding: 0 50px 50px 50px;
     list-style: none;
     display: -webkit-box;
     display: -moz-box;
@@ -133,11 +138,11 @@ section#bios ul {
 section#bios ul li {
     width: 300px;
     text-align: center;
+    margin: 10px;
 }
 
 section#bios ul li p {
     text-align: left;
-    margin-top: unset;
 }
 
 section#bios ul li p img{

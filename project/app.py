@@ -48,21 +48,21 @@ def index():
         parts = section.split("\n\n")
         for item in parts:
             mkup = m.html(item.decode('utf-8'))
-            mkup = mkup.replace('</h4>', '</h4>\n<div id="read-more-%d" class="read-more collapsed section-%d" onclick="clicker(%d);">' % (i, s, i))
             items.append(mkup)
             i += 1
 
-        markup = '</div>\n</li>\n\n<li>\n'.join(items)
+        markup = '\n</li>\n\n<li>\n'.join(items)
         
        
+# Add the hr's
+        markup = markup.replace('<h3>', '<hr>\n<h3>')
         # Add the opening ul
         # We add an expand-all link below the first header
-        if s == 0:
-            markup = markup.replace('</h2>', '</h2>\n<ul><li>')
-        else:
-            markup = markup.replace('</h2>', '</h2>\n<ul><li>')
+        
+        markup = markup.replace('</h2>', '</h2>\n<ul><li>')
         # Add the closing ul
         content['sections'].append('%s\n</div>\n</li>\n</ul>' % markup)
+
 
     # Get the most-recent headline
     #fh = open('tag-vegas-1.html', 'rb')
