@@ -7,10 +7,22 @@ They were enjoying a country music concert when bullets rained down – a horrif
 These are the victims of the Las Vegas shooting who have been identified so far.
 ^^^^^^
 ## The Victims
+![Austin Davis](static/img/austin_davis.jpg)
+### Austin Davis
+Davis, 29, attended Sunday's concert with friends and family from his hometown of Riverside, Nevada. He worked as a pipefitter for UA Local 364 in Las Vegas, according to the LA Times. His girlfriend, Aubree Hennigan, last spoke with him two hours before the bloodshed began. “He just told me that Big & Rich was playing and he didn’t really care for them but they threw one hell of a concert,” she said. “That’s all he told me.” Hennigan spent many painful hours searching for answers about Davis during the aftermath, before learning he had perished.
+
+![Brennan Stewart](static/img/brennan_stewart.jpg)
+### Brennan Stewart
+Born and raised in the City of Lights, Stewart’s passion for country music extended well beyond the music on his iPod. “He was extremely caring, driven by his love for his family, friends and music. He followed his passion of playing guitar and writing his own music,” his best friend’s fiance, Stacie Leporati, 27, told the Daily News. “He brightened every room he walked into with his smile, laugh, and mini wine bottles for everyone. His personality was enormous.” The Las Vegas man, who was killed at just 30 years old, was with his girlfriend, Gia, at the concert on Sunday. She was not injured.
+
+
+![Melissa Ramirez](static/img/melissa_ramirez.jpg)
+### Melissa Ramirez
+Ramirez, a California State University graduate, worked as a customer service representative in Lancaster, Calif., not far from where she grew up in Littlerock. Friends of the 26-year-old described her as a “genuine” and “bubbly” young woman with a passion for people — and the Philadelphia Eagles. “She was an amazing friend and brought so much joy anywhere she went,” said her friend Kim Rosales, 25, who was with Ramirez at the concert. Ramirez is survived by her mother and father, her older brother, her younger sister, and her niece.
+
 ![Heather Alvarado](static/img/heather_alvarado.jpg)
 ### Heather Alvarado
-Alvarado, the wife of 35-year-old Cedar City, Utah, firefighter Albert Alvarado, decided to take her family to the concert to "get away," according to a GoFundMe set up for medical and funeral expenses. "Heather is the first to help out and she is always welcoming."
-She died late Monday night at a Las Vegas Hospital, the Salt Lake Tribune reported.
+Alvarado, the wife of 35-year-old Cedar City, Utah, firefighter Albert Alvarado, decided to take her family to the concert to “get away,” according to a GoFundMe set up for medical and funeral expenses. “Heather is the first to help out and she is always welcoming.” She died late Monday night at a Las Vegas Hospital, the Salt Lake Tribune reported.
 
 ![Stacee Rodrigues Etcheber](static/img/stacee_etcheber.jpg)
 ### Stacee Rodrigues Etcheber
@@ -18,8 +30,8 @@ Etchebar had worked for more than 20 years as a hairstylist, most recently at Ci
 
 ![Lisa Patterson](static/img/lisa_patterson.jpg)
 ### Lisa Patterson
-"Lisa had an infectious energy and fierce love for her family," according to a GoFundMe set up to raise money for a memorial fund.
-Patterson, a mother of three, dedicated much of her time to the Palos Verde Girls Softball league, often volunteering alongside her husband of 30 years. "I can't believe she's gone," he said.
+"Lisa had an infectious energy and fierce love for her family,” according to a GoFundMe set up to raise money for a memorial fund.
+Patterson, a mother of three, dedicated much of her time to the Palos Verde Girls Softball league, often volunteering alongside her husband of 30 years. “I can't believe she's gone,” he said.
 
 ![Christina Duarte](static/img/christina_duarte.jpg)
 ### Christina Duarte
@@ -27,7 +39,7 @@ The 21-year-old University of Arizona graduate was first reported missing in the
 
 ![Rocio Guillen Rocha](static/img/rocio_rocha.jpg)
 ### Rocio Guillen Rocha
-Loved ones remembered the mother as "young beautiful, happy" and "hard-working." The Anaheim resident was a longtime cast member at Disneyland is survived by her children, ages 18, 13, 16 months and 1 month as well as her fiance, according to a GoFundMe page. 
+Loved ones remembered the mother as “young beautiful, happy” and “hard-working.” The Anaheim resident was a longtime cast member at Disneyland is survived by her children, ages 18, 13, 16 months and 1 month as well as her fiance, according to a GoFundMe page. 
 "Her greatest accomplishment was being a mother, as she would always say. She was a supermom."
 
 ![Brian Fraser](static/img/brian_fraser.jpg)
@@ -38,7 +50,6 @@ The California man wanted a good spot to hear his favorite musician, country sta
 ![Dorene Anderson](static/img/dorene_anderson.jpg)
 ### Dorene Anderson 
 Anderson, a fan of the Alaska Aces minor league hockey team and stay-at-home mother, was attending the concert with her daughters when gunfire broke out, KTUU reported. The 49-year-old Anchorage resident was listed among the victims in an email to employees at her husband's workplace, Alaska Finance Corp. Her friend Gayle Simmons described her as a “beautiful, kind and giving woman.”
-”She loved her husband and girls with a passion we could never match,” she wrote. “I admired her every action.”
 
 ![Bill Wolfe](static/img/bill_wolfe.jpg)
 ### Bill Wolfe
@@ -46,11 +57,11 @@ Wolfe's Pennsylvania community is “brokenhearted” and already feeling his lo
 
 ![Michael Anderson](static/img/michael_anderson.jpg)
 ### Michael Anderson
-Anderson “was everything a woman could want,” his girlfriend Biana Acosta wrote in a social media post confirming he was among the dead. Anderson had a 2-year-old son along with a 6-month-old boy with Acosta, according to a GoFundMe page set up to cover his funeral expenses. “The thing about my love story with Michael is that it has been ever lasting since the moment we locked eyes. I have been crazy in love with this man since I was 15,” she wrote. “He was our whole world. And now I don't know how to go on without him.”
+Anderson “was everything a woman could want,” his girlfriend Biana Acosta wrote in a social media post confirming he was among the dead. Anderson had a 2-year-old son along with a 6-month-old boy with Acosta, according to a GoFundMe page set up to cover his funeral expenses. “I have been crazy in love with this man since I was 15,” she wrote. “He was our whole world. And now I don't know how to go on without him.”
 
 ![Kurt Von Tillow](static/img/kurt_von_tillow.jpg)
 ### Kurt Von Tillow
-Von Tillow, a 55-year-old Cameron Park, Calif., resident, was surrounded by family members when the gunshots rang out. His sister and niece were hospitalized following the shooting and his wife, daughter, and son-in-law managed to escape unharmed, KCRA reported. “My brother-in-law was the most patriotic person you ever met,” Mark Carson told the news station. “Guarantee you, he was covered in red, white and blue, with a Coors Light in his hand, smiling with his family and listening to some music.”
+Von Tillow, a 55-year-old Cameron Park, Calif., resident, was surrounded by family members when the gunshots rang out. His sister and niece were hospitalized following the shooting and his wife, daughter, and son-in-law managed to escape unharmed, KCRA reported. “My brother-in-law was the most patriotic person you ever met,” Mark Carson told the news station. “Guarantee you, he was covered in red, white and blue, with a Coors Light in his hand, smiling with his family.”
 
 ![Victor Link](static/img/victor_link.jpg)
 ###Victor Link
@@ -72,7 +83,7 @@ Murfitt was a 35-year-old commercial fisherman who lived in Anchorage, Alaska. H
 
 ![Lisa Romero-Muniz](static/img/lisa_romero.jpg)
 ### Lisa Romero-Muniz
-Romero-Muniz had worked at Miyamura High School in Gallup, N.M., since 2003, school officials said. Students and faculty held a vigil for her Monday night to remember the longtime secretary. “As many of our students have mentioned in some of their Facebook posts and to many of us that she was there for them and she respected them and tried to work with them as much as she could,” Mike Hyatt, Gallup-McKinley County School District interim superintendent, said at a news conference.
+Romero-Muniz had worked at Miyamura High School in Gallup, N.M., since 2003, school officials said. Students and faculty held a vigil for her Monday night to remember the longtime secretary. “As many of our students have mentioned in some of their Facebook posts and to many of us that she was there for them and she respected them and tried to work with them as much as she could,” said Mike Hyatt, Gallup-McKinley County School District interim superintendent.
 
 ![Rachael Parker](static/img/rachael_parker.jpg)
 ### Rachael Parker
