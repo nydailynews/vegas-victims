@@ -22,8 +22,8 @@ page = {
     'datestamp': '2017-10-03',
     'keywords': 'Las Vegas, mass shooting, gun, violence',
     'keywords_array': '"las vegas","mass shooting","gun","violence"',
-    'shareimg': 'http://interactive.nydailynews.com/project/vegas-victims/static/img/las-vegas-victims.jpg',
-    'shareimg_static': 'http://interactive.nydailynews.com/project/mta-funding/static/img/las-vegas-victims.jpg',
+    'shareimg': 'http://interactive.nydailynews.com/project/las-vegas-victims/static/img/las-vegas-victims.jpg',
+    'shareimg_static': 'http://interactive.nydailynews.com/project/las-vegas-victims/static/img/las-vegas-victims.jpg',
     'shareimgdesc': '',
 }
 
