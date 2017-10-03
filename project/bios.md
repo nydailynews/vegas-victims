@@ -7,6 +7,29 @@ They were enjoying a country music concert when bullets rained down – a horrif
 These are the victims of the Las Vegas shooting who have been identified so far.
 ^^^^^^
 ## The Victims
+![Heather Alvarado](static/img/heather_alvarado.jpg)
+### Heather Alvarado
+Alvarado, the wife of 35-year-old Cedar City, Utah, firefighter Albert Alvarado, decided to take her family to the concert to "get away," according to a GoFundMe set up for medical and funeral expenses. "Heather is the first to help out and she is always welcoming."
+She died late Monday night at a Las Vegas Hospital, the Salt Lake Tribune reported.
+
+![Stacee Rodrigues Etcheber](static/img/stacee_etcheber.jpg)
+### Stacee Rodrigues Etcheber
+Etchebar had worked for more than 20 years as a hairstylist, most recently at Ciao Bella Hair Salon in Novato, the San Francisco Chronicle reported. The 50-year-old mother of two was attending the concert with her husband of 20 years, Vinnie Etcheber, who is a member of the San Francisco police force.
+
+![Lisa Patterson](static/img/lisa_patterson.jpg)
+### Lisa Patterson
+"Lisa had an infectious energy and fierce love for her family," according to a GoFundMe set up to raise money for a memorial fund.
+Patterson, a mother of three, dedicated much of her time to the Palos Verde Girls Softball league, often volunteering alongside her husband of 30 years. "I can't believe she's gone," he said.
+
+![Christina Duarte](static/img/christina_duarte.jpg)
+### Christina Duarte
+The 21-year-old University of Arizona graduate was first reported missing in the chaotic aftermath of the festival shooting, but family members confirmed she was among the victims Tuesday afternoon. The Torrance, Calif., woman had been at the concert with her brother's girlfriend, who was injured in the deadly incident, according to the Daily Breeze.
+
+![Rocio Guillen Rocha](static/img/rocio_rocha.jpg)
+### Rocio Guillen Rocha
+Loved ones remembered the mother as "young beautiful, happy" and "hard-working." The Anaheim resident was a longtime cast member at Disneyland is survived by her children, ages 18, 13, 16 months and 1 month as well as her fiance, according to a GoFundMe page. 
+"Her greatest accomplishment was being a mother, as she would always say. She was a supermom."
+
 ![Brian Fraser](static/img/brian_fraser.jpg)
 ### BRIAN FRASER 
 In the last minutes of his life, Brian Fraser worked his way toward the front of the Las Vegas stage.
