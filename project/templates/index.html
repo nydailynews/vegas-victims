@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% block style %}{% endblock style %}
+{% block content %}
+
+<div class="intro">
+    <h2>Las Vegas Shooting</h2>
+    
+    <h1>MTA Budget: Where the money comes from</h1>
+    <div>
+        <ul class="ra-share" id="ra-share-top" style="text-align: center;">
+            <li class="rt-share-f"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=">facebook</a> </li>
+            <li class="ra-share-t"> <a target="_blank" href="https://twitter.com/intent/tweet?text=">Tweet</a></li>
+            <li class="ra-share-e"> <a href="mailto:?subject=&body=">email</a> </li>
+        </ul>
+    </div>
+
+    <p class="byline">By JESSICA SCHLADEBECK and TERENCE CULLEN</p>
+
+    <p id="datestamp" class="stamp">Published {{''|last_update()}}</p>
+
+    <p>INTRO TEXT HERE</p>
+
+</div>
+
+<p class="latest-news">
+    The latest <a href="http://www.nydailynews.com/tags/las-vegas-shooting">Las Vegas shooting coverage</a>: 
+    <strong id="latest-news-headline"></strong>
+</p>
+<script onload="document.getElementById('latest-news-headline').innerHTML=hed;" src="http://interactive.nydailynews.com/project/vegas-shooting/tag-las-vegas-shooting.js"></script>
+
+{% include 'includes/ad02.html' %}
+
+<section id="victims">
+    <h2>The Victims</h2>
+    <ul>
+        <li>
+            <img class="revenue" src="http://via.placeholder.com/350x150"></a>" alt="">
+            <h3>$15.3 billion</h3>
+            <h4>Total MTA revenue</h4>
+            <p>This number comes from the MTA's 2017 mid-year forecast and includes the revenue sources below.</p>
+        </li>
+    </ul>
+</section>
+
+<div>
+    <p class="caption">Interactive by Kelli R. Parker</p>
+</div>
+{% endblock content %}
