@@ -101,7 +101,7 @@ The 28-year-old St. George, Utah, resident commuted to his job for the City of L
 ![Jordan McIldoon](static/img/jordan_mcildoon.jpg)
 ### Jordan McIldoon
 McIldoon, 23, was a mechanic apprentice in Maple Ridge, British Columbia, and at the concert with his girlfriend.
-The boyfriend and girlfriend got split up amid the gunfire. McIldoon died in the arms of Heather Gooze, a bartender at the festival. The bartender got in touch with McIldoon’s girlfriend nearby and broke the news. She also promised McIldoon’s mother she’d stay with him, and she did for almost six hours. “I wouldn't want anybody to leave,” Gooze told CBC. “You know, I couldn't just leave him by himself.”
+They got split up amid the gunfire. McIldoon died in the arms of Heather Gooze, a bartender at the festival. She got in touch with McIldoon’s girlfriend and broke the news. She also promised McIldoon’s mother she’d stay with him, and she did for almost six hours.
 
 ![Jenny Parks](static/img/jenny_parks.jpg)
 ### Jenny Parks
@@ -125,7 +125,7 @@ Smith, 53, lived and worked in Simi Valley, Calif. She was married and had two a
 
 ![Quinton Robbins](static/img/quinton_robbins.jpg)
 ### Quinton Robbins
-Robbins, a 20- year-old recreational assistant for Henderson, Nev., was an avid fisherman and snowboarder, the Las-Vegas Review-Journal reported. His younger sister, Skylar recalled the times they took to the slopes together and described his final moments on Twitter. “Laying next to you in the hospital bed all night was the hardest thing I've gone through but you made me feel so at peace I know you are with me,” she wrote. “I was smiling through tears saying goodbye to you for the last time because I know you would be saying 'smell ya later' with your little smirk.”
+Robbins, a 20- year-old recreational assistant for Henderson, Nev., was an avid fisherman and snowboarder, the Las-Vegas Review-Journal reported. His younger sister, Skylar recalled the times they took to the slopes together and described his final moments on Twitter. “Laying next to you in the hospital bed all night was the hardest thing I've gone through but you made me feel so at peace I know you are with me,” she wrote.
 
 ![Neysa Tonks](static/img/neysa_tonks.jpg)
 ### Neysa Tonks
@@ -133,8 +133,7 @@ Tonks’ brother, AJ Yerage, remembered her as someone who was “always laughin
 
 ![Rhonda LeRocque](static/img/rhonda_lerocque.jpg)
 ### Rhonda LeRocque
-Rhonda LeRocque of Tewksbury, Mass., was the mother of a 6-year-old girl and a devout Jehovah’s Witness.  She was among the crowd at the Sunday night finale of a three-day country music festival when killed by one of the bullets that left 59 fellow music lovers dead.
-She was survived by her husband Jason and their daughter, leaving behind a large and distraught group of family members and friends. Rhonda “was a great example of what a wife, mother, sister, daughter and niece should be, and touched so many lives,” her family said on GoFundMe.  “She loved her family with all her heart.”
+Rhonda LeRocque of Tewksbury, Mass., was the mother of a 6-year-old girl and a devout Jehovah’s Witness.  She was among the crowd at the Sunday night finale of a three-day country music festival when killed by one of the bullets that left 59 fellow music lovers dead. She is survived by her husband Jason and their daughter. Rhonda “was a great example of what a wife, mother, sister, daughter and niece should be, and touched so many lives,” her family said on GoFundMe.
 
 ![Jack Beaton](static/img/jack_beaton.jpg)
 ### Jack Beaton
@@ -165,7 +164,7 @@ Ahlers, 34, was attending the festival on the Las Vegas strip with her husband o
 
 ![Chris Roybal](static/img/christopher_roybal.jpg)
 ### Chris Roybal
-The 28-year-old Navy veteran recently returned from Afghanistan and was reportedly at the concert with his mother, celebrating his upcoming 29th birthday. The pair was separated when the concertgoers were showered with bullets. “He went to combat and came back without being injured, and then goes to a concert and dies,” his mother told NBC4. In one of his final Facebook posts, Roybal discussed what it was like being shot at in combat: “It was never fear, to be honest, mass confusion. Sensory overload followed by an unnatural amount of adrenaline that could never be duplicated through a needle. I was excited, angry and manic.”
+He knew the sound of automatic gunfire from combat. That harrowing but familiar sound returned at the country musical festival. The 28-year-old Navy veteran was at the concert with his mother, celebrating his return from Afghanistan, when they were separated by the hail of bullets. “Nobody would let me go back in, they were pulling me away,” his grieving mom, Debby Allen, said. “I kept screaming, ‘My son! My son,’” she told the Daily News.
 
 ![Jennifer Irvine](static/img/jennifer_irvine.jpg)
 ### Jennifer Irvine
@@ -174,3 +173,40 @@ Irvine, a 42-year-old attorney from Las Vegas, was “holding hands with her gir
 ![Carrie Barnette](static/img/carrie_barnette.jpg)
 ### Carrie Barnette
 Walt Disney Company Chairman and CEO Bob Iger sent out a company-wide email to break the news that 34-year-old Barnette was killed at the Route 91 Harvest Festival. She worked with Disney's culinary team for 10 years, most recently at Flo's V8 Café in Cars Land at Disney California Adventure Park. Her cousin, Janice Chambers, told the Arizona Republic that Barnette was the “life of the party” and remembered her “beautiful soul.”
+
+![Laura Shipp](static/img/laura_shipp.jpg)
+### Laura Shipp
+Shipp, 50, was attending the festival with her boyfriend and her son Corey, a Marine reservist.
+As the shots rang out, they were all separated. Corey tried desperately to find his missing mother through Facebook, only to later learn she was among the casualties. The longtime resident of Thousand Oaks, Calif., moved to Las Vegas in recent years.
+
+![Kelsey Meadows](static/img/kelsey_meadows.jpg)
+### Kelsey Meadows
+The 28-year-old was a substitute teacher at Taft Union High School in California, where she had a “sweet spirit and a love for children,” principal Mary Alice Finn wrote in a statement to KERO-TV. Meadows’ devastated brother Brad confirmed her death on Facebook. “It is with an absolutely shattered heart that I let everyone know that Kelsey did not survive this tragic event,” he wrote. 
+
+![Jordyn Rivera](static/img/jordyn_rivera.jpg)
+### Jordyn Rivera
+Tomás Morales, president of California State University, broke the news in a somber note to students that “tragedy has against shaken our nation,” and that a peer was among the victims. Morales personally knew Rivera, 21, from a 2016 summer abroad program in London. “We will remember and treasure her for her warmth, optimism, energy, and kindness,” he wrote. The fourth-year student was studying healthcare management at the San Bernardino campus.
+
+![Michelle Vo](static/img/michelle_vo.jpg)
+### Michelle Vo
+It was kismet that Kody Robertson met Vo, 32, the night of the concert. The two bonded over beer, golf and she even showed off a tattoo of a flower on her back, Robertson told the Washington Post. After Vo was shot in the chest, Robertson carried her out of the concert grounds. She did not wake up, even as he desperately cried her name.
+
+![Erick Silva](static/img/erick_silva.jpg)
+### Erick Silva
+Silva, a 21-year-old Las Vegan, was working security near the stage at the Jason Aldean concert when gunfire erupted. He was trying to help people flee the festival when he was shot, his manager Gino Argento, of Contemporary Services Corporation, told the Las Vegas Review Journal. Silva’s sister Daisy Hernandez held a memorial for her slain brother on Tuesday, while others mourned the loss of his “really funny” personality.
+
+![Andrea Castilla](static/img/andrea_castilla.jpg)
+### Andrea Castilla
+Castilla’s  boyfriend was preparing to propose to her, her sister said. The 28-year-old Sephora worker from Huntington Beach, Calif., was visiting her sister Athena in Las Vegas for her birthday, and her friends and family flagged down a car to take her to the hospital after she was hit in the head, according to a GoFundMe page. Athena Castilla told the Las Vegas Review Journal that her sister wanted to use her makeup talents to help cancer patients. “I will cry my self to sleep i will weep at night till the morning comes for you my sweet angel Andrea,” her father Gus Castilla posted on Facebook.
+
+![Keri Galvan](static/img/keri_galvan.jpg)
+### Keri Galvan
+Galvan, a 31-year-old mother of three, was visiting Las Vegas from Thousand Oaks, Calif., with her husband. She worked as a server at a local steakhouse, according to the Thousand Oaks Acorn, though her sister said that “her days started and ended with doing everything in her power to be a wonderful mother.” A GoFundMe page was created for her children, ages 10, 4 and 2.
+
+![Steven Berger](static/img/steven_berger.jpg)
+### Steven Berger
+Steve Berger, a financial adviser from Shorewood, Minn., was celebrating his birthday in Las Vegas. The divorced father of three, who turned 44 one day before he died, was remembered as a basketball star in high school who won a scholarship to attend St. Olaf College. Josh Decker, his college roommate and co-worker at EFS Financial who was at the concert when shots broke out, said, “He was charismatic, full of energy and breathed life into every room. He was always so positive. He was larger than life to me.”
+
+![Candice Bowers](static/img/candice_bowers.jpg)
+### Candice Bowers
+Candice Bowers, from Garden Grove, Calif., was a restaurant waitress who devoted her life to taking care of her children and those around her. The 40-year-old single mother legally adopted her 2-year-old niece in May, and leaves behind two older children, ages 20 and 16, the Orange County Register reported. Her grandmother Patricia Zacker said Bowers seemed to be turning a corner after a life of hardship and lamented her untimely death, saying, “She never had any support, except herself.”
