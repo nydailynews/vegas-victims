@@ -7,6 +7,43 @@ They were enjoying a country music concert when bullets rained down – a horrif
 These are the victims of the [Las Vegas shooting](http://www.nydailynews.com/tags/las-vegas-shooting) who have been identified so far.
 ^^^^^^
 ## The Victims
+![Denise Cohen](static/img/denise_cohen.jpg)
+### Denise Cohen
+Cohen’s son, Jeff Rees remembered his mother as a “strong, beautiful and happy woman who made a difference to lives of everyone she knew.” He told California television station KEYT her last photo showed her and boyfriend Derrick “Bo” Taylor, who was also killed in the mass shooting. Cohen, from Carpinteria, Calif., worked as a property manager in Santa Barbara and was recently working to become a more active member of her church.
+
+![Derrick "Bo" Taylor](static/img/derrick_taylor.jpg)
+### Derrick “Bo” Taylor 
+The 56-year-old lawman from Oxnard, Calif., logged nearly three decades working in California and Nevada, most recently watching over firefighting inmates at the Ventura Conservation Center, according to KCRA-TV. “There are no words to express the feeling of loss and sadness regarding Bo’s passing,” said Joel Martinez, his former Sierra Conservation Center warden. Taylor was killed alongside his girlfriend, Denise Cohen, during their Sin City getaway. He leaves behind two adult sons.
+
+![Calla Medig](static/img/calla_medig.jpg)
+### Calla Medig
+The Canada native took time off from her restaurant job at Moxie’s in west Edmonton to make the trip to Vegas, her boss, Scott Collingwood told the Canadian Free Press – the third year in a row she attended the festival. Coworkers described Medig as a “super bright and amazing person.” “She was a little bit of everything around here, she was kind of a rock, and as of Thursday she would have been our newest manager,” Collingwood said. “A lot of us around here have super heavy hearts and we already miss her.”
+
+![Tara Roe](static/img/tara_roe.jpg)
+### Tara Roe
+Roe, 34, worked as a model with Sophia Models International for nearly 10 years. In a statement, the Calgary-based agency recalled her “friendly face and caring spirit.” The mother of two, who was living in Okotoks in Alberta, also worked as an educational assistant with the Foot Hills School Division in High River. Roe’s family confirmed she was among the dead late Monday, according to Global News.
+
+![Chris Hazencomb](static/img/chris_hazencomb.jpg)
+### Chris Hazencomb
+The 44-year-old sports junkie from Camarillo, Calif., was shot in the head while shielding his friend’s wife from the bullets raining down from the 32nd floor of a Las Vegas hotel and casino. “He was good to everybody. He’d go out on a limb for everybody,” his mother, Maryanne Hazencomb told the Ventura County Star. She agreed to disconnect her son’s ventilator just before 11 a.m. Monday morning. With a priest by her side, Maryanne said goodbye to her music-loving son.
+
+![Patricia Mestas](static/img/patricia_mestas.jpg)
+### Patricia Mestas
+Mestas, a 64-year-old living in San Antonio, was a mother and a dedicated Christian who loved country music. One of her favorite artists was Jason Aldean, who was performing when the gunfire began. “She went to almost every country show within driving distance,” her best friend, Isa Bahu told the Orange County Register. “She was an amazing woman. She was a good person. She had a great heart.” Her cousin Tom Smith described her as “a role model.” “She just shined,” he told the Press Enterprise.
+
+![Nicol Kimura](static/img/nicol_kimura.jpg)
+### Nicol Kimura
+Kimura, 38, attended the concert with a group of friends, including Ryan Miller. “Our close knit group of seven was in attendance together at Route 91, up from Orange County, California,” Miller said. “We scattered after the shooting began and were reunited, less one, many hours later.” In a GoFundMe set up for a memorial fund in her name, Miller recalled her “infectious laugh” and “how much she loved life.”
+
+![Carly Kreibaum](static/img/carly_kreibaum.jpg)
+### Carly Kreibaum
+The mother of two and Iowa native was separated from friends after she was struck by a bullet amid the shooting, the Sioux City Journal reported. Her husband Chris on Tuesday wrote in a Facebook post that he was headed to Las Vegas to search for her, but a family member confirmed her death to KITV later the same day. Kreibaum studied art in college and had worked at a Wal-Mart in Spencer, Iowa for the last few years.
+
+![Carrie Parsons](static/img/carrie_parsons.jpg)
+### Carrie Parsons
+Parsons, of Seattle, loved country music. Eric Church was her favorite singer. She was able to see him perform at the Festival on Friday. “It’s the only language the whole world speaks in one way or another,” her friend Robbie Walden told Q13 Fox. “She loved music. She loved country music.” Colby Rezayat said he penned a letter to senators when he learned of his high school friend’s death. “It felt like something tangible I could do to begin this grieving process of the loss of a wonderful childhood friend to such an abhorrent act of violence,” he wrote in a Facebook post.
+
+
 ![Austin Davis](static/img/austin_davis.jpg)
 ### Austin Davis
 Davis, 29, attended Sunday's concert with friends and family from his hometown of Riverside, Nevada. He worked as a pipefitter for UA Local 364 in Las Vegas, according to the LA Times. His girlfriend, Aubree Hennigan, last spoke with him two hours before the bloodshed began. “He just told me that Big & Rich was playing and he didn’t really care for them but they threw one hell of a concert,” she said. “That’s all he told me.” Hennigan spent many painful hours searching for answers about Davis during the aftermath, before learning he had perished.
