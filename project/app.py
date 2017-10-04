@@ -24,7 +24,7 @@ page = {
     'keywords_array': '"las vegas shooting","mass murder","las vegas","gun violence"',
     'shareimg': 'vegas-victims-share.jpg',
     'shareimg_static': 'vegas-victims-share.jpg',
-    'shareimgdesc': '',
+    'shareimgdesc': 'A photo of a memorial for the victims of the Las Vegas massacre',
 }
 
 with app.app_context():
@@ -65,13 +65,13 @@ def index():
 
 
     # Get the most-recent headline
-    #fh = open('tag-vegas-1.html', 'rb')
-    #latest = fh.read()
-    #fh.close()
+    fh = open('tag-vegas-1.html', 'rb')
+    latest = fh.read()
+    fh.close()
 
     response = {
         'app': app,
-     #   'latest': latest.decode('utf-8'),
+        'latest': latest.decode('utf-8'),
         'content': content
     }
 
@@ -84,7 +84,7 @@ def last_update(blank):
         Returns a formatted date object, ala "Friday Feb. 20"
         """
     today = date.today()
-    return today.strftime('%A %B %d')
+    return today.strftime('%A %B %-d, %Y')
 
 @app.template_filter(name='timestamp')
 def timestamp(blank):
