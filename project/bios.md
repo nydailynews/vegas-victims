@@ -41,8 +41,7 @@ The mother of two and Iowa native was separated from friends after she was struc
 
 ![Carrie Parsons](static/img/carrie_parsons.jpg)
 ### Carrie Parsons
-Parsons, of Seattle, loved country music. Eric Church was her favorite singer. She was able to see him perform at the Festival on Friday. “It’s the only language the whole world speaks in one way or another,” her friend Robbie Walden told Q13 Fox. “She loved music. She loved country music.” Colby Rezayat said he penned a letter to senators when he learned of his high school friend’s death. “It felt like something tangible I could do to begin this grieving process of the loss of a wonderful childhood friend to such an abhorrent act of violence,” he wrote in a Facebook post.
-
+Parsons, of Seattle, loved country music. Eric Church was her favorite singer. She was able to see him perform at the Festival on Friday. “It’s the only language the whole world speaks in one way or another,” her friend Robbie Walden told Q13 Fox. “She loved music. She loved country music.”
 
 ![Austin Davis](static/img/austin_davis.jpg)
 ### Austin Davis
