@@ -2,7 +2,7 @@ They were military veterans and kindergarten teachers.
 
 Sons. Brothers. Sisters. Mothers.
 
-They were enjoying a country music concert when bullets rained down – a horrific shooting that killed at least 59 people and injured 500 more.
+They were enjoying a country music concert when bullets rained down – a horrific shooting that killed at least 58 people and injured 500 more.
 
 These are the victims of the [Las Vegas shooting](http://www.nydailynews.com/tags/las-vegas-shooting) who have been identified so far.
 ^^^^^^
