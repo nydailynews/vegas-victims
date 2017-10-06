@@ -88,6 +88,16 @@ hr {
 	border-color: #333;
 }
 
+.ednote {
+    font-style: italic;
+    font-family: "PT Serif", serif;
+    max-width: 915px;
+    margin: auto;
+    border-top: 1px dashed black;
+    padding-top: 10px;
+    text-align: center;
+}
+
 .caption {
     font: 15px "Open Sans", sans-serif;
     color: #999;

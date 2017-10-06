@@ -16,7 +16,7 @@ Cohen’s son, Jeff Rees remembered his mother as a “strong, beautiful and hap
 The 56-year-old lawman from Oxnard, Calif., logged nearly three decades working in California and Nevada, most recently watching over firefighting inmates at the Ventura Conservation Center, according to KCRA-TV. “There are no words to express the feeling of loss and sadness regarding Bo’s passing,” said Joel Martinez, his former Sierra Conservation Center warden. Taylor was killed alongside his girlfriend, Denise Cohen, during their Sin City getaway. He leaves behind two adult sons.
 
 ![Calla Medig](static/img/calla_medig.jpg)
-### Calla Medig
+### Calla-Marie Medig
 The Canada native took time off from her restaurant job at Moxie’s in west Edmonton to make the trip to Vegas, her boss, Scott Collingwood told the Canadian Free Press – the third year in a row she attended the festival. Coworkers described Medig as a “super bright and amazing person.” “She was a little bit of everything around here, she was kind of a rock, and as of Thursday she would have been our newest manager,” Collingwood said. “A lot of us around here have super heavy hearts and we already miss her.”
 
 ![Tara Roe](static/img/tara_roe.jpg)
@@ -32,7 +32,7 @@ The 44-year-old sports junkie from Camarillo, Calif., was shot in the head while
 Mestas, a 64-year-old living in San Antonio, was a mother and a dedicated Christian who loved country music. One of her favorite artists was Jason Aldean, who was performing when the gunfire began. “She went to almost every country show within driving distance,” her best friend, Isa Bahu told the Orange County Register. “She was an amazing woman. She was a good person. She had a great heart.” Her cousin Tom Smith described her as “a role model.” “She just shined,” he told the Press Enterprise.
 
 ![Nicol Kimura](static/img/nicol_kimura.jpg)
-### Nicol Kimura
+### Teresa Nicol Kimura
 Kimura, 38, attended the concert with a group of friends, including Ryan Miller. “Our close knit group of seven was in attendance together at Route 91, up from Orange County, California,” Miller said. “We scattered after the shooting began and were reunited, less one, many hours later.” In a GoFundMe set up for a memorial fund in her name, Miller recalled her “infectious laugh” and “how much she loved life.”
 
 ![Carly Kreibaum](static/img/carly_kreibaum.jpg)
@@ -40,7 +40,7 @@ Kimura, 38, attended the concert with a group of friends, including Ryan Miller.
 The mother of two and Iowa native was separated from friends after she was struck by a bullet amid the shooting, the Sioux City Journal reported. Her husband Chris on Tuesday wrote in a Facebook post that he was headed to Las Vegas to search for her, but a family member confirmed her death to KITV later the same day. Kreibaum studied art in college and had worked at a Wal-Mart in Spencer, Iowa for the last few years.
 
 ![Carrie Parsons](static/img/carrie_parsons.jpg)
-### Carrie Parsons
+### Carolyn Parsons
 Parsons, of Seattle, loved country music. Eric Church was her favorite singer. She was able to see him perform at the Festival on Friday. “It’s the only language the whole world speaks in one way or another,” her friend Robbie Walden told Q13 Fox. “She loved music. She loved country music.”
 
 ![Austin Davis](static/img/austin_davis.jpg)
@@ -73,8 +73,8 @@ Patterson, a mother of three, dedicated much of her time to the Palos Verde Girl
 ### Christina Duarte
 The 21-year-old University of Arizona graduate was first reported missing in the chaotic aftermath of the festival shooting, but family members confirmed she was among the victims Tuesday afternoon. The Torrance, Calif., woman had been at the concert with her brother's girlfriend, who was injured in the deadly incident, according to the Daily Breeze.
 
-![Rocio Guillen Rocha](static/img/rocio_rocha.jpg)
-### Rocio Guillen Rocha
+![Rocio Guillen](static/img/rocio_rocha.jpg)
+### Rocio Guillen
 Loved ones remembered the mother as “young beautiful, happy” and “hard-working.” The Anaheim resident was a longtime cast member at Disneyland is survived by her children, ages 18, 13, 16 months and 1 month as well as her fiance, according to a GoFundMe page. 
 "Her greatest accomplishment was being a mother, as she would always say. She was a supermom."
 
@@ -100,7 +100,7 @@ Meyer was celebrating his 24th birthday with his girlfriend in Las Vegas when he
 Schwanbeck, 61, of Bullhead City, Ariz., enjoyed the outdoors and often took his kids on camping, hunting, and fishing adventures. The retired truck driver attended the country music festival with his fiancee Anna Orozco, who was not injured in the mass shooting. Schwanbeck, who was remembered by his family members as a fun and compassionate man, is survived by his fiancee, along with two sons, one daughter and five grandchildren.
 
 ![Kurt Von Tillow](static/img/kurt_von_tillow.jpg)
-### Kurt Von Tillow
+### Kurt Allen Von Tillow
 Von Tillow, a 55-year-old Cameron Park, Calif., resident, was surrounded by family members when the gunshots rang out. His sister and niece were hospitalized following the shooting and his wife, daughter, and son-in-law managed to escape unharmed, KCRA reported. “My brother-in-law was the most patriotic person you ever met,” Mark Carson told the news station. “Guarantee you, he was covered in red, white and blue, with a Coors Light in his hand, smiling with his family.”
 
 ![Victor Link](static/img/victor_link.jpg)
@@ -110,7 +110,7 @@ Link was killed in the gunfire and Gonzalez was treated for shock at the hospita
 He also leaves behind a 23-year-old son, whom he adopted.
 
 ![Sonny Melton](static/img/sonny_melton.jpg)
-### Sonny Melton
+### James “Sonny” Melton
 Melton, 29, was a registered nurse who lived in western Tennessee. He was at the concert with his wife, Heather, to celebrate their one-year wedding anniversary. “He saved my life. He grabbed me and started running when I felt him get shot in the back,” his wife told Fox affiliate KVVU. “I want everyone to know what a kind-hearted, loving man he was, but at this point, I can barely breathe.”
 
 ![Charleston Hartfield](static/img/charleston_hartfield.jpg)
@@ -144,15 +144,15 @@ McIldoon, 23, was a mechanic apprentice in Maple Ridge, British Columbia, and at
 They got split up amid the gunfire. McIldoon died in the arms of Heather Gooze, a bartender at the festival. She got in touch with McIldoon’s girlfriend and broke the news. She also promised McIldoon’s mother she’d stay with him, and she did for almost six hours.
 
 ![Jenny Parks](static/img/jenny_parks.jpg)
-### Jenny Parks
+### Jennifer Parks
 Parks was a married mother of two who taught kindergarten in Lancaster County, Calif. “She touched many lives,” reads a GoFundMe page for her family. “Her life was cut far too short on the last night of the Route 91 Harvest Festival.”
 
 ![Jessica Klymchuk](static/img/jessica_klymchuk.jpg)
 ### Jessica Klymchuk 
 Klymchuk was a mother of four who lived in Valleyview, Alberta, according to CBC. She worked at a Catholic school where staff and students broke down Monday when they learned the devastating news. 
 
-![Sandy Casey](static/img/sandy_casey.jpg)
-### Sandy Casey
+![Sandra Casey](static/img/sandy_casey.jpg)
+### Sandra Casey
 Casey, 35, was a teacher in Manhattan Beach, Calif., and was part of a staff trip to the Route 91 Harvest festival, the Daily Breeze reported. “She has made a tremendous difference in the lives of her students and their families, many of whom worked with her over multiple years,” the district said in a statement. She became engaged to her boyfriend, Christopher Willemse, in April. They worked together at the school and shared a love of country music. 
 
 ![Angela Gomez](static/img/angela_gomez.jpg)
@@ -203,7 +203,7 @@ Day's children are now all with his father, Thomas Day Sr., who struggled to put
 Ahlers, 34, was attending the festival on the Las Vegas strip with her husband of 16 years as well as three other couples, according to the Las Vegas Review-Journal. She had three children, ages 3, 11, and 14, and her father-in-law described her as a “loving caring and devoted mother.” “She could have lit the world up with her smile,” he said.
 
 ![Chris Roybal](static/img/christopher_roybal.jpg)
-### Chris Roybal
+### Christopher Roybal
 He knew the sound of automatic gunfire from combat. That harrowing but familiar sound returned at the country musical festival. The 28-year-old Navy veteran was at the concert with his mother, celebrating his return from Afghanistan, when they were separated by the hail of bullets. “Nobody would let me go back in, they were pulling me away,” his grieving mom, Debby Allen, said. “I kept screaming, ‘My son! My son,’” she told the Daily News.
 
 ![Jennifer Irvine](static/img/jennifer_irvine.jpg)
@@ -243,9 +243,9 @@ Castilla’s  boyfriend was preparing to propose to her, her sister said. The 28
 ### Keri Galvan
 Galvan, a 31-year-old mother of three, was visiting Las Vegas from Thousand Oaks, Calif., with her husband. She worked as a server at a local steakhouse, according to the Thousand Oaks Acorn, though her sister said that “her days started and ended with doing everything in her power to be a wonderful mother.” A GoFundMe page was created for her children, ages 10, 4 and 2.
 
-![Steven Berger](static/img/steven_berger.jpg)
+![Stephen Berger](static/img/steven_berger.jpg)
 ### Steven Berger
-Steve Berger, a financial adviser from Shorewood, Minn., was celebrating his birthday in Las Vegas. The divorced father of three, who turned 44 one day before he died, was remembered as a basketball star in high school who won a scholarship to attend St. Olaf College. Josh Decker, his college roommate and co-worker at EFS Financial who was at the concert when shots broke out, said, “He was charismatic, full of energy and breathed life into every room. He was always so positive. He was larger than life to me.”
+Stephen Berger, a financial adviser from Shorewood, Minn., was celebrating his birthday in Las Vegas. The divorced father of three, who turned 44 one day before he died, was remembered as a basketball star in high school who won a scholarship to attend St. Olaf College. Josh Decker, his college roommate and co-worker at EFS Financial who was at the concert when shots broke out, said, “He was charismatic, full of energy and breathed life into every room. He was always so positive. He was larger than life to me.”
 
 ![Candice Bowers](static/img/candice_bowers.jpg)
 ### Candice Bowers
