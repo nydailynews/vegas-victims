@@ -91,9 +91,13 @@ Anderson, a fan of the Alaska Aces minor league hockey team and stay-at-home mot
 ### Bill Wolfe
 Wolfe's Pennsylvania community is “brokenhearted” and already feeling his loss, Shippensburg police said in a Facebook post, which confirmed his passing. He coached Little League and was listed as the head coach for students in kindergarten through 6th grade at Shippensburg Greyhound Wrestling, NBC Philadelphia reported. Wolfe attended the country music festival with his wife Robyn, who was not injured.
 
-![Michael Anderson](static/img/michael_anderson.jpg)
-### Michael Anderson
-Anderson “was everything a woman could want,” his girlfriend Biana Acosta wrote in a social media post confirming he was among the dead. Anderson had a 2-year-old son along with a 6-month-old boy with Acosta, according to a GoFundMe page set up to cover his funeral expenses. “I have been crazy in love with this man since I was 15,” she wrote. “He was our whole world. And now I don't know how to go on without him.”
+![Austin Meyer](static/img/austin_meyer.jpg)
+### Austin Meyer
+Meyer was celebrating his 24th birthday with his girlfriend in Las Vegas when he was gunned down. He was studying transportation technologies at Truckee Meadows Community College in Reno, Nev., KSBW reported. His sister Veronica Meyer remembered her brother as an ambitious and hard-working young man who looked forward to opening an auto repair shop and getting married.
+
+![Brett Schwanbeck](static/img/brett_schwanbeck.jpg)
+### Brett Schwanbeck
+Schwanbeck, 61, of Bullhead City, Ariz., enjoyed the outdoors and often took his kids on camping, hunting, and fishing adventures. The retired truck driver attended the country music festival with his fiancee Anna Orozco, who was not injured in the mass shooting. Schwanbeck, who was remembered by his family members as a fun and compassionate man, is survived by his fiancee, along with two sons, one daughter and five grandchildren.
 
 ![Kurt Von Tillow](static/img/kurt_von_tillow.jpg)
 ### Kurt Von Tillow
